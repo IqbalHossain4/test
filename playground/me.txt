@@ -1,0 +1,6 @@
+
+{{#user}
+Name: Iqbal Hossain
+Skills: HTML, CSS, JS,React.js, Next.js, Node.js, Express.js, MongoDB, Firebase
+Email: Iqbal-hossain@mail.com
+{{/user}}
